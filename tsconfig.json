@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": true,
+        "sourceMap": false
+    },
+    "files":[
+        "./src/app.ts"
+    ],
+    "outDir":[
+        "./dist"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "02_d3js",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "nvd3": "^1.8.4"
+  }
+}
